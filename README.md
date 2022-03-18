@@ -1,10 +1,8 @@
 # earthquake
 
-A new Flutter project.
+This App which shows realtime earthquake data is made by using Flutter. The URL is taken from: https://earthquake.usgs.gov/
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
