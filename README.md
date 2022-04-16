@@ -1,4 +1,4 @@
-# Earthquake Info
+# Earthquake Info Using FLUTTER
 
 This App which shows realtime earthquake data is made by using Flutter. The URL is taken from: https://earthquake.usgs.gov/
 
